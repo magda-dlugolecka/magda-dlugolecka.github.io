@@ -988,7 +988,6 @@
 /* Banner */
 
 	#banner {
-		font-family: 'Amatic SC', cursive;
 		background-color: #666666;
 		background-image: url("../images/banner.jpg");
 		background-size: cover;
@@ -1020,6 +1019,7 @@
 			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
+			font-family: 'Amatic SC', cursive;
 			color: #ffffff;
 		}
 
