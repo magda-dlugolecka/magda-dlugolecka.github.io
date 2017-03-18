@@ -49,7 +49,6 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-                font-family: 'Amatic SC', cursive;
 		color: #666f77;
 		font-weight: 300;
 		line-height: 1em;
@@ -989,6 +988,7 @@
 /* Banner */
 
 	#banner {
+		font-family: 'Amatic SC', cursive;
 		background-color: #666666;
 		background-image: url("../images/banner.jpg");
 		background-size: cover;
