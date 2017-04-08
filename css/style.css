@@ -16,7 +16,6 @@
 
         .logo-large {
                 font-family: 'Amatic SC', cursive;
-		font-size: 400em;
         }
 
         .logo-regular {
@@ -1056,7 +1055,8 @@
 		}
 
 		#banner h2 {
-			font-size: 3.5em;
+		        font-weight: 300;
+			font-size: 8em;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
