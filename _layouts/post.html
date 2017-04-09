@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{{ content }}
 <div class="wrapper style1">
     <article class="container">
         <header class="major">
@@ -10,14 +9,14 @@ layout: default
         </header>
 
         <section class="post-content">
-            {{ content | markdownify }}
+            {{ content }}
         </section>
         
         <footer>
             {% if page.previous %}
-            <a href="{{ page.previous.url }}" class="float-left">&larr; Previous post</a> {% endif %}
+            <a href="{{ page.previous.url }}" class="float-left">&larr; Poprzedni artykuł</a> {% endif %}
             {% if page.next %}
-            <a href="{{ page.next.url }}" class="float-right">Next post &rarr;</a> {% endif %}
+            <a href="{{ page.next.url }}" class="float-right">Następny artykuł &rarr;</a> {% endif %}
         </footer>
 
     </article>
