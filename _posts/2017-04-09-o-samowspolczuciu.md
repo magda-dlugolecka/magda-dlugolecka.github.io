@@ -25,9 +25,10 @@ Zrób eksperyment:
 
 •	Przyjrzyj się temu co napisałeś. Czy dostrzegasz różnicę między tym jak traktujesz siebie i innych?
 
-•	Następnym razem, kiedy znajdziesz się w trudnej sytuacji, spróbuj potraktować samego siebie tak jak traktujesz najlepszego przyjaciela.
+•	Następnym razem, kiedy znajdziesz się w trudnej sytuacji, spróbuj potraktować samego siebie tak, jak traktujesz najlepszego przyjaciela.
 
 Życzliwy i serdeczny stosunek do samego siebie w obliczu trudności i porażek to samowspółczucie (ang. self – compassion). Kristin Neff, która bada współczucie dla samego siebie, wyróżnia trzy aspekty tego pojęcia:
+
 •	Życzliwość dla samego siebie: ciepło i serdeczny stosunek do samego siebie, zamiast bezwzględnej krytyki
 
 •	Wspólnota losu: poczucie więzi z innymi ludźmi, zamiast izolacji i samotności w obliczu cierpienia
