@@ -38,8 +38,12 @@ Dzięki badaniom Neff i innych psychologów wiemy, że samowspółczucie pozwala
 Pomimo oczywistych korzyści, traktowanie samych siebie dobrze i życzliwie nie przychodzi nam łatwo. Przekonanie o tym, że na współczucie i troskę zasługują tylko ci, którzy nie przyczynili się do własnego cierpienia, jest trwale obecne w naszej kulturze. Myśl, że współczucie i życzliwość należy się nawet temu, kto zasłużył sobie na cierpienie, jest nam kulturowo obca. A w wielu z nas tkwi przekonanie, że sami jesteśmy winni, a cierpienie jest naszą karą. Bywa, że życzliwe i pełne współczucia  traktowanie siebie jest równoznaczne z użalaniem i traktowane jak słabość charakteru. W innych tkwi przekonanie, by stawiać dobro innych ponad własne. W efekcie życzliwość dla samego siebie jawi się jako pobłażliwość i egoizm. Nic bardziej mylnego – dopiero wtedy, gdy zadbamy o samych siebie, możemy dobrze zatroszczyć się o innych. W niektórych osobach praktyka współczucia może obudzić dużo trudnych emocji. Po latach tłumienia uczuć, pierwszy życzliwy i ciepły kontakt z samym sobą może być źródłem żalu i  smutku. Dlatego czasem warto tę podróż do samego siebie odbywać w towarzystwie terapeuty. 
 
 Źródła:
+
 Germer, C. K. (2009). The mindful path to self-compassion: Freeing yourself from destructive thoughts and emotions. New York: Guilford Press.
+
 Gilbert, P. (2013). The compassionate mind. London: Robinson.
+
 Neff, K. D. (2011). Self-compassion: Stop beating yourself up and leave insecurity behind. Yellow Kite.
+
 
 Artykuł ukazał się w serwisie [Zdrowa Głowa](http://zdrowaglowa.pl/o-samowspolczuciu-slow-kilka/)
