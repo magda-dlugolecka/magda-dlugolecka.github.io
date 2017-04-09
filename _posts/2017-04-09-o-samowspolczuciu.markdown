@@ -11,6 +11,7 @@ Większość z nas ma wysoką samoocenę i z reguły myśli o sobie dobrze. Licz
 A jednak. W sytuacjach opisanych wyżej, w naszych głowach odzywa się wewnętrzy krytyk: „ Jestem do niczego. Nie nadaję się. Dlaczego mnie się to przytrafia?” Czujemy złość, rozczarowanie, frustrację i wstyd. Uruchamiamy prymitywny system walki i ucieczki, którego zadaniem jest chronić nas przed zagrożeniem. Z czym walczymy i przed czym uciekamy? Przed  sobą. My sami stajemy się problemem, którego należy się pozbyć. Te same mechanizmy, które w naszej ewolucyjnej przeszłości zdecydowały o przetrwaniu gatunku, teraz stają się źródłem naszego cierpienia.
 
 ###Jak radzić sobie z wewnętrznym krytykiem?
+
 Zrób eksperyment:
 *Pomyśl o osobie, na której ci zależy. Niech to będzie ktoś , kto wywołuje twoje ciepłe uczucia – najlepszy przyjaciel, dziecko, partner.
 *Wyobraź sobie, że ta osoba doświadcza sytuacji równie trudnej, jak te opisane na początku. Jest jej źle i przykro.
