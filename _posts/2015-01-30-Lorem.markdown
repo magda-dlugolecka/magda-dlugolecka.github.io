@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
+<img src="{{ site.baseurl }}/images/Samowspółczucie.jpg" class="fit image">
 Wyobraź sobie, że stoisz przed grupą osób, dla których masz wygłosić swoją prezentację. Przygotowywałeś się rzetelnie cały wczorajszy dzień, masz gotowe wszystkie materiały. Kiedy otwierasz prezentację, orientujesz się, że zapisałeś starą wersję dokumentu i nie ma w nim tego, o czym zamierzasz opowiedzieć. Albo wyobraź sobie, że zapraszasz przyjaciół na uroczystą kolację. Witasz znajomych i nagle czujesz swąd spalenizny z kuchni. Twoje popisowe danie zamieniło się w zwęgloną breję. Jakie myśli pojawiają się w twojej głowie? Co myślisz o sobie?
 Większość z nas ma wysoką samoocenę i z reguły myśli o sobie dobrze. Liczne badania dowodzą, że w większości mamy pozytywne mniemanie o sobie i  o własnej wartości. Przeciętny człowiek uważa, że jest lepszy niż przeciętny pod wieloma względami. Rzadko pojawia się w nas myśl – jestem przeciętnie inteligentny, dowcipny czy życzliwy. Co więcej, gdyby ktoś tak o nas powiedział, uznalibyśmy go za nieprzeciętnego gbura. 
 A jednak. W sytuacjach opisanych wyżej, w naszych głowach odzywa się wewnętrzy krytyk: „ Jestem do niczego. Nie nadaję się. Dlaczego mnie się to przytrafia?” Czujemy złość, rozczarowanie, frustrację i wstyd. Uruchamiamy prymitywny system walki i ucieczki, którego zadaniem jest chronić nas przed zagrożeniem. Z czym walczymy i przed czym uciekamy? Przed  sobą. My sami stajemy się problemem, którego należy się pozbyć. Te same mechanizmy, które w naszej ewolucyjnej przeszłości zdecydowały o przetrwaniu gatunku, teraz stają się źródłem naszego cierpienia.
