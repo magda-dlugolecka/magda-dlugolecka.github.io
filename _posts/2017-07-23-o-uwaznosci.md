@@ -3,11 +3,11 @@ layout: post
 title: 'O uważności'
 date: '2017-07-23 10:48:00'
 ---
-Co czujesz, kiedy siedzisz na plaży i oglądasz zachód słońca? Czy próbujesz coś zmienić albo kontrolować to, co się dzieje? Czy kiedykolwiek pojawiła się w twojej głowie myśl: „Za dużo żółtego. Chmura z prawej powinna być bardziej różowa.”? Czy jesteś spokojny, otwarty i pozwalasz sobie chłonąć wrażenia wszystkimi zmysłami?
+Co czujesz, kiedy siedzisz na plaży i oglądasz zachód słońca? Czy próbujesz coś zmienić albo kontrolować to, co się dzieje? Czy kiedykolwiek pojawiła się w twojej głowie myśl: „Za dużo żółtego. Chmura z prawej powinna być bardziej różowa”? Czy jesteś spokojny, otwarty i pozwalasz sobie chłonąć wrażenia wszystkimi zmysłami?
 
 Uważność to pełen akceptacji kontakt z własnym aktualnym doświadczeniem - bez oceniania, krytykowania i daremnych prób kontroli czy zmiany. Praktykowana regularnie pozwala traktować siebie, ludzi i świat dookoła z życzliwością i zaciekawieniem, a w rezultacie wyzwolić się z nawykowych reakcji i odzyskać wewnętrzny spokój. 
 
-Uważność jest prosta, choć niełatwa. Polega na obserwowaniu pojawiających się myśli, emocji i wrażeń w ciele oraz traktowania zarówno tych przyjemnych jak i nieprzyjemnych z jednakowym życzliwym zainteresowaniem. Bez prób ich zatrzymywania albo blokowania. Jednak nasz umysł nieustannie błądzi i podsuwa różne obrazy i scenariusze, które sprawiają, że zanurzamy się w strumieniu wrażeń i myśli, zamiast spokojnie obserwować je z brzegu. Bywa, że nasze doświadczenie jest tak trudne, że łatwiej wydaje się je stłumić albo odwrócić od niego uwagę. Wszyscy mamy na to swoje sposoby – mniej lub bardziej skuteczne i konstruktywne: używki, leki, internet, sport, relacje intymne czy praca.
+Uważność jest prosta, choć niełatwa. Polega na obserwowaniu pojawiających się myśli, emocji i wrażeń w ciele oraz traktowania zarówno tych przyjemnych, jak i nieprzyjemnych z jednakowym życzliwym zainteresowaniem. Bez prób ich zatrzymywania albo blokowania. Jednak nasz umysł nieustannie błądzi i podsuwa różne obrazy i scenariusze, które sprawiają, że zanurzamy się w strumieniu wrażeń i myśli, zamiast spokojnie obserwować je z brzegu. Bywa, że nasze doświadczenie jest tak trudne, że łatwiej wydaje się je stłumić albo odwrócić od niego uwagę. Wszyscy mamy na to swoje sposoby – mniej lub bardziej skuteczne i konstruktywne: używki, leki, internet, sport, relacje intymne czy praca.
 
 Uważność nie jest techniką relaksacyjną. Wewnętrzny spokój to uboczny skutek pełnej akceptacji całego naszego doświadczenia. Również tego trudnego i bolesnego. Dzięki świadomości, że nasze doświadczenie jest płynne, nietrwałe i zmienne. I dzięki porzuceniu złudzenia kontroli nad tym, co myślimy i czujemy.
 
