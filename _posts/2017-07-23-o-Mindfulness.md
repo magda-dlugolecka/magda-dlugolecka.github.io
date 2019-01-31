@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'O uważności'
+title: 'O Mindfulness'
 date: '2017-07-23 10:48:00'
 ---
 Co czujesz, kiedy siedzisz na plaży i oglądasz zachód słońca? Czy próbujesz coś zmienić albo kontrolować to, co się dzieje? Czy kiedykolwiek pojawiła się w twojej głowie myśl: „Za dużo żółtego. Chmura z prawej powinna być bardziej różowa”? Czy jesteś spokojny, otwarty i pozwalasz sobie chłonąć wrażenia wszystkimi zmysłami?
