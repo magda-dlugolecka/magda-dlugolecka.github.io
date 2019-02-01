@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O samowspółczuciu"
+title: "Jak być dobrym dla siebie"
 date: 2017-04-09 17:45:00
 ---
 
