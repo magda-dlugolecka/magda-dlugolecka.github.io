@@ -17,7 +17,7 @@ Mindfulness nie pozbawia nas kontaktu z prawdziwym życiem. Nie musimy zamykać 
 
 Mindfulness nie jest zakamuflowanym buddyzmem. Praktyki  kontemplacyjne mają korzenie w tradycji i filozofii wschodu i są obecne we wszystkich religiach. Jednak programy oparte na uważności, które funkcjonują w przedszkolach, szkołach, szpitalach, gabinetach terapeutycznych i firmach na całym świecie mają całkowicie świecki charakter, a ich celem jest poprawa jakości życia.
 
-W 2015 roku w brytyjskim parlamencie powstał raport  Mindful Nation. Raport zawiera zalecenia dotyczące wprowadzania uważności w czterech obszarach: edukacji, służbie zdrowia, systemie penitencjarnym i miejscach pracy. Rekomenduje m.in. ułatwienie dostępu do terapii poznawczej opartej na uważności MBCT (Mindfulness Based Cognitive Therapy) osobom, które cierpią na przewlekłe choroby i nawracająca depresję. W szczególności tym, które nie chcą stosować leków antydepresyjnych. Marzy mi się podobna inicjatywa w Polsce.
+W 2015 roku w brytyjskim parlamencie powstał raport  Mindful Nation. Raport zawiera zalecenia dotyczące wprowadzania uważności w czterech obszarach: edukacji, służbie zdrowia, systemie penitencjarnym i miejscach pracy. Marzy mi się podobna inicjatywa w Polsce.
 
 Źródła:
 Germer, C. K., Siegel , R. D., Fulton  P. R. (2015). Uważność i psychoterapia. Kraków: Wydawnictwo Uniwersytetu Jagiellońskiego
