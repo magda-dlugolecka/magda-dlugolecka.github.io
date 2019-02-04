@@ -11,7 +11,7 @@ Praktyka Mindfulness jest prosta, choć niełatwa. Polega na obserwowaniu pojawi
 
 Mindfulness nie jest techniką relaksacyjną. Wewnętrzny spokój to uboczny skutek pełnej akceptacji całego naszego doświadczenia. Również tego trudnego i bolesnego. Dzięki świadomości, że nasze doświadczenie jest płynne, nietrwałe i zmienne. I dzięki porzuceniu złudzenia kontroli nad tym, co myślimy i czujemy. Praktyka Mindulness uczy, że kiedy pozwolisz sobie na doświadczenie negatywnej emocji, możesz ją przetworzyć i iść dalej. Kiedy nie dajesz sobie takiego pozwolenia i tłumisz emocje, one wzbierają i zaczynają kontrolować twoje zachowanie.
 
-Mindfulness nie jest kolejną metodą samorozwoju i doskonalenia. Przeciwnie. Pozwala nam pogodzić się ze sobą i przestać traktować samych siebie jak problem, który należy rozwiązać. Odzyskujemy dzięki temu energię i zasoby, które możemy wykorzystać na budowanie wartościowego życia.
+Mindfulness nie jest kolejną metodą samorozwoju i doskonalenia. Przeciwnie. Pozwala nam pogodzić się ze sobą i przestać traktować samych siebie jak problem, który należy rozwiązać. Odzyskujemy dzięki temu energię i zasoby, które możemy wykorzystać do budowania wartościowego życia.
 
 Mindfulness nie pozbawia nas kontaktu z prawdziwym życiem. Nie musimy zamykać się w klasztorze i medytować w izolacji od świata. Jon Kabat-Zinn, który w latach 70. wprowadził uważność do zachodniej medycyny, mówi, że praktyka uważności to nieustanny romans z życiem  - wraz z całym jego pięknem i bogactwem.
 
