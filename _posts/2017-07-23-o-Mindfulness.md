@@ -15,7 +15,7 @@ Mindfulness nie jest kolejną metodą samorozwoju i doskonalenia. Przeciwnie. Po
 
 Mindfulness nie pozbawia nas kontaktu z prawdziwym życiem. Nie musimy zamykać się w klasztorze i medytować w izolacji od świata. Jon Kabat-Zinn, który w latach 70. wprowadził uważność do zachodniej medycyny, mówi, że praktyka uważności to nieustanny romans z życiem  - wraz z całym jego pięknem i bogactwem.
 
-Mindfulness nie jest zakamuflowanym buddyzmem. Praktyki  kontemplacyjne mają korzenie w tradycji i filozofii wschodu i są obecne we wszystkich religiach. Jednak programy oparte na uważności, które funkcjonują w przedszkolach, szkołach, szpitalach, gabinetach terapeutycznych i firmach na całym świecie mają całkowicie świecki charakter, a ich celem jest poprawa jakości życia.
+Mindfulness nie jest zakamuflowanym buddyzmem. Praktyki kontemplacyjne, które mają korzenie w tradycji i filozofii wschodu są obecne we wszystkich religiach. Jednak programy oparte na uważności w przedszkolach, szkołach, szpitalach, gabinetach terapeutycznych i firmach na całym świecie mają całkowicie świecki charakter, a ich celem jest poprawa jakości życia.
 
 
 Źródła:
