@@ -49,8 +49,8 @@
 		width: 100%;
 	}
 
-		#navButton .toggle:before {
-			content: "";
+		#navButton .toggle::before {
+			content: "\f0c9";
 			-webkit-font-smoothing: antialiased;
 			font-family: "Font Awesome 5 Free";
 			font-style: normal;
@@ -59,7 +59,7 @@
 			text-rendering: auto;
 		}
 
-		#navButton .toggle:before {
+		#navButton .toggle::before {
 			background: rgba(144, 149, 154, 0.75);
 			border-radius: 6px;
 			color: #fff;
