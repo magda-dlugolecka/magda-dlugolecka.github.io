@@ -51,12 +51,12 @@
 
 		#navButton .toggle:before {
 			content: "\f0c9";
-			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-family: "Font Awesome 5 Free";
 			font-style: normal;
+			font-variant: normal;
 			font-weight: 400;
-			text-transform: none !important;
+			text-rendering: auto;
 		}
 
 		#navButton .toggle:before {
