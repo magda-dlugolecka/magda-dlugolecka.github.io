@@ -91,6 +91,7 @@ input[type="radio"] + label:before{border-radius:100%;}
 .icon:before{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:FontAwesome;font-style:normal;font-weight:normal;text-transform:none !important;}
 .icon > .label{display:none;}
 .icon.major{display:inline-block;margin:0 0 1.25em 0;color:#ffffff;background:#629DD1;width:3em;height:3em;font-size:2em;text-align:center;line-height:3em;border-radius:100%;box-shadow:0 0 0 10px #fff, 0 0 0 11px rgba(144, 144, 144, 0.25);}
+.fa-major{display:inline-block;margin:0 0 1.25em 0;color:#ffffff;background:#629DD1;width:3em;height:3em;font-size:2em;text-align:center;line-height:3em;border-radius:100%;box-shadow:0 0 0 10px #fff, 0 0 0 11px rgba(144, 144, 144, 0.25);}
 .image{border-radius:6px;border:0;display:inline-block;position:relative;}
 .image img{border-radius:6px;display:block;}
 .image.left{float:left;padding:0 1.5em 1em 0;top:0.25em;}
