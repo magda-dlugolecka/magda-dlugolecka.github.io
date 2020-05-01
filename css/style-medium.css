@@ -40,6 +40,40 @@
 
 /* Layers */
 
+	#navButton .toggle {
+		text-decoration: none;
+		height: 100%;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+
+		#navButton .toggle:before {
+			content: "\f0c9";
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: "Font Awesome 5 Free";
+			font-style: normal;
+			font-weight: 400;
+			text-transform: none !important;
+		}
+
+		#navButton .toggle:before {
+			background: rgba(144, 149, 154, 0.75);
+			border-radius: 6px;
+			color: #fff;
+			display: inline-block;
+			font-size: 17px;
+			height: 2em;
+			left: 0.5em;
+			line-height: 2em;
+			position: absolute;
+			text-align: center;
+			top: 0.5em;
+			width: 3.5em;
+		}
+
 	#navPanel {
 		background: #192024;
 		color: #c5c7c8;
