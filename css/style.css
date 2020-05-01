@@ -86,7 +86,7 @@ input[type="radio"] + label:before{border-radius:100%;}
 .box >:last-child >:last-child >:last-child{margin-bottom:0;}
 .box.alt{border:0;border-radius:0;padding:0;}
 .icon{text-decoration:none;border-bottom:none;position:relative;font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;}
-.icon:before{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;text-transform:none !important;}
+.icon:before{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;text-transform:none !important;}
 .icon > .label{display:none;}
 .icon.major{display:inline-block;margin:0 0 1.25em 0;color:#ffffff;background:#629DD1;width:3em;height:3em;font-size:2em;text-align:center;line-height:3em;border-radius:100%;box-shadow:0 0 0 10px #fff, 0 0 0 11px rgba(144, 144, 144, 0.25);}
 .fa-major{display:inline-block;margin:0 0 1.25em 0;color:#ffffff;background:#629DD1;width:3em;height:3em;font-size:2em;text-align:center;line-height:3em;border-radius:100%;box-shadow:0 0 0 10px #fff, 0 0 0 11px rgba(144, 144, 144, 0.25);}
